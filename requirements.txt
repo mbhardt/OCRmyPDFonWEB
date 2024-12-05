@@ -1,5 +1,2 @@
 streamlit
 ocrmypdf
-tesseract
-pdfquant
-ghostscript
